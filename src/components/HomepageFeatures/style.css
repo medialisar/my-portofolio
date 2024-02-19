@@ -1,0 +1,14 @@
+.box {
+  margin-top: 200px;
+}
+
+.box-title {
+  font-size: 100px;
+  font-weight: 800;
+  margin-bottom: 0;
+}
+
+.box-subtitle {
+  margin-top: -30px !important;
+  font-size: 30px;
+}
