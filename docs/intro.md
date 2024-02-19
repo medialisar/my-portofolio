@@ -20,6 +20,6 @@ Click the link to go to the sample
 - [**Meeting of Minutes**](/blog/2023/01/01/mom): A summary of the meeting or minutes.
 - **How To**: Some documentation that aims to assist users in performing an action, be it in the form of a Tutorial, Guideline, Manual Book, or User Guide.
 - **Code Documentation**: Explains how the code works, and the purpose of certain parts of the code.
-- **Diagrams**: To support the audience's understanding of the document, diagrams are created as a visualization aid. Among the tools used are draw.io, mermaid, and Lucidchart.
+- [**Diagrams**](docs/examples/diagram): To support the audience's understanding of the document, diagrams are created as a visualization aid. Among the tools used are draw.io, mermaid, and Lucidchart.
 
 In addition, I am also used to using various tools for communication and documentation, such as Canva, Microsoft PowerPoint, Google Docs, Slack, and Trello.

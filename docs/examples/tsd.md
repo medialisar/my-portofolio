@@ -1,6 +1,6 @@
 ---
 title: Technical Specification Document
-description: sample format
+description: TSD file example format.
 ---
 
 ## Overview
@@ -9,21 +9,21 @@ Provides a general overview of the project or solution to be implemented, includ
 
 ## Brief Summary
 
-A brief summary of the solution to be implemented, including its benefits and the problem it will solve.
+A summary of the solution to be implemented, including its benefits and the problem it will solve.
 
 ## The Solution
 
 Explain the proposed solution in more detail, including the system architecture, technologies to be used, and the rationale behind the solution's selection.
 
-## Solution Based on User Experience
+### Solution Based on User Experience
 
 Focuses on the user experience of the proposed solution, including user interface (UI) design and user interactions.
 
-## Technical Solution
+### Technical Solution
 
 Provides technical details on how the solution will be implemented, including programming languages, frameworks, and tools to be used.
 
-## Test Plan
+### Test Plan
 
 Describes the testing plan to ensure the quality and reliability of the solution, including the types of testing and the testing strategy to be used.
 
